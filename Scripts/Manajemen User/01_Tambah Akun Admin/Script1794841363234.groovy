@@ -1,0 +1,54 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.llm.keyword.LlmKeywords as LLM
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+// Generate 4 digit angka acak agar username & email selalu unik setiap kali Run
+def kodeUnik = new Random().nextInt(9000) + 1000
+def usernameBaru = 'marpuah_' + kodeUnik
+def emailBaru = 'ichamarpuah' + kodeUnik + '@gmail.com'
+
+WebUI.openBrowser(null)
+
+WebUI.navigateToUrl('http://localhost/e-pkl/admin-web/public/')
+
+WebUI.setText(findTestObject('manajemenuser/Page_Login Admin  E-PKL/input_Masukkan username atau email'), 'Afredo')
+
+WebUI.setEncryptedText(findTestObject('manajemenuser/Page_Login Admin  E-PKL/input_Masukkan password'), 'e49H4Kf1KPNwQBO6NHxxDA==')
+
+WebUI.click(findTestObject('manajemenuser/Page_Login Admin  E-PKL/button_Masuk'))
+
+WebUI.click(findTestObject('manajemenuser/Page_Dashboard Monitoring PKL  E-PKL/span_Manajemen User'))
+
+WebUI.click(findTestObject('manajemenuser/Page_Dashboard Monitoring PKL  E-PKL/a_Manajemen Admin'))
+
+WebUI.click(findTestObject('manajemenuser/Page_Manajemen Admin  E-PKL/a_Tambah Akun Admin'))
+
+WebUI.setText(findTestObject('manajemenuser/Page_Tambah Admin  E-PKL/input_Masukkan nama lengkap admin'), 'Icha Marpuah')
+
+WebUI.setText(findTestObject('manajemenuser/Page_Tambah Admin  E-PKL/input_Masukkan username'), usernameBaru)
+
+WebUI.setText(findTestObject('manajemenuser/Page_Tambah Admin  E-PKL/input_Masukkan email (opsional)'), emailBaru)
+
+WebUI.setEncryptedText(findTestObject('manajemenuser/Page_Tambah Admin  E-PKL/input_Minimal 8 karakter'), 'Rcc5qjMZwv9B3bzoLu0hwQ==')
+
+WebUI.click(findTestObject('manajemenuser/Page_Tambah Admin  E-PKL/button_Simpan Admin'))
+
+WebUI.delay(2)
+WebUI.verifyTextPresent('Akun Admin berhasil dibuat', false)
+WebUI.closeBrowser()

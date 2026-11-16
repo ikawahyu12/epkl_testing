@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_togglePassword</name>
+   <tag></tag>
+   <elementGuidId>37d7e53a-abf7-44bc-92a8-66cabbdf30ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'togglePassword']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#togglePassword</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a7c4aae5-b6a3-45e5-a39c-93c60721699b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d14d89b2-25f4-4ded-b30d-9b3ef7c4eb27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>togglePassword</value>
+      <webElementGuid>6fa7d0d1-ed0f-4af0-b70c-fb15cb127d82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Tampilkan/Sembunyikan Password</value>
+      <webElementGuid>42bb7866-9582-4c41-97fa-db3e0a52f22d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e9b47799dd466ee4b08b61dcb714f39c</value>
+      <webElementGuid>cd4098fc-db53-462e-9a6a-1dd655b813de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'togglePassword']</value>
+      <webElementGuid>5d354c9a-dcab-4859-8c49-cbf8cfcd4871</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'togglePassword']</value>
+      <webElementGuid>dbe67eda-b197-4bd4-ad1e-af7f629aa0c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'togglePassword' and @title = 'Tampilkan/Sembunyikan Password']</value>
+      <webElementGuid>86e67d16-683f-450a-8aae-ff937f89a81d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
