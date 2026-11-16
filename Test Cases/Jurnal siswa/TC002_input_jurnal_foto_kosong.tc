@@ -3,6 +3,20 @@
    <description></description>
    <name>TC002_input_jurnal_foto_kosong</name>
    <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>E DIA PUTRA ANDIKA IBEKNUH SETIAWAN</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>6ba59b75-dfbb-48fe-a7e8-88bd8d42989e</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>e30ade33-8136-4543-84e5-cf0eb557328b</testCaseGuid>
