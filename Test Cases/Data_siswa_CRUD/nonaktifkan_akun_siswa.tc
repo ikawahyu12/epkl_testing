@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>nonaktifkan_akun_siswa</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>E AULIA LUH BILQIS</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>E AULIA LUH BILQIS</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>05743580-9b55-485b-a447-a070d1591b8d</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>05743580-9b55-485b-a447-a070d1591b8d</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f208ff06-7c3a-4e30-b6c7-7dee50956696</testCaseGuid>
+</TestCaseEntity>

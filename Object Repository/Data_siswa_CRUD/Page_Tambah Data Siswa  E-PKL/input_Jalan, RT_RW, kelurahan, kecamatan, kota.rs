@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Jalan, RT_RW, kelurahan, kecamatan, kota</name>
+   <tag></tag>
+   <elementGuidId>0d3e18e9-94dc-46c3-b1e5-bdc5fd6220bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#alamat</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'alamat']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Jalan, RT/RW, kelurahan, kecamatan, kota&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>84e84572-c814-4660-b5f8-8b29054bbf51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sf-input</value>
+      <webElementGuid>1cc852d5-eb9f-41c5-8b62-3be8e942516e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>ba5f0ac1-30df-41a6-9798-8707b334fab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>alamat</value>
+      <webElementGuid>257ed382-c355-4d0e-8c25-0eb8d050c592</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>alamat</value>
+      <webElementGuid>3913e3cd-592d-4927-97e3-79b2f396c673</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Jalan, RT/RW, kelurahan, kecamatan, kota</value>
+      <webElementGuid>b9197cbc-2256-4972-9a7a-10c141105b5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-53f00a86d3d10b6a18bc4a97152d4210</value>
+      <webElementGuid>2669da21-cfba-439f-bf92-74d2d3ccb172</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'alamat']</value>
+      <webElementGuid>63c40fc0-97e3-4a67-81f3-f1cc0a7ce256</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'alamat']</value>
+      <webElementGuid>9dee05d9-151f-4e65-9465-69a78980ecff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'alamat' and @name = 'alamat' and @placeholder = 'Jalan, RT/RW, kelurahan, kecamatan, kota']</value>
+      <webElementGuid>e213f7da-b486-4eae-b3ce-f5cbb9793d87</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
