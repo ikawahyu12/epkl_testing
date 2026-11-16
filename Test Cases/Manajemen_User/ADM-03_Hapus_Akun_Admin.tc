@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM-03_Hapus_Akun_Admin</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Afredo Hidayatulloh</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Afredo Hidayatulloh</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>35192fc0-a30f-44ea-ba88-2b50b1f80c86</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>35192fc0-a30f-44ea-ba88-2b50b1f80c86</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a4fe0644-e163-4152-905a-2070969b3b39</testCaseGuid>
+</TestCaseEntity>
