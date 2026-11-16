@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EPKL_008</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>E IKA WAHYUNINGTYAS</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>E IKA WAHYUNINGTYAS</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>c016fa3a-4649-48ee-8fd8-fb16ba099148</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>c016fa3a-4649-48ee-8fd8-fb16ba099148</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>864d3383-fc7e-4a68-9c4c-24d14aea7699</testCaseGuid>
+</TestCaseEntity>
