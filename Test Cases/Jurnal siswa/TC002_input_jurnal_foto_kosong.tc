@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002_input_jurnal_foto_kosong</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e30ade33-8136-4543-84e5-cf0eb557328b</testCaseGuid>
+</TestCaseEntity>
