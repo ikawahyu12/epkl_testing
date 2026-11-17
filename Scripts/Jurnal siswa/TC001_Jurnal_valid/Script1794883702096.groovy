@@ -54,3 +54,5 @@ WebUI.setText(findTestObject('jurnal siswa/Page_Jurnal - Pantau PKL/input_Pilih 
 
 WebUI.click(findTestObject('jurnal siswa/Page_Jurnal - Pantau PKL/button_btn-submit'))
 
+WebUI.acceptAlert()
+
