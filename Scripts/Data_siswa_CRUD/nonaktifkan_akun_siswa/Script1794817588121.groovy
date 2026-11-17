@@ -19,7 +19,7 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser(null)
 
-WebUI.navigateToUrl('http://localhost/e-pkl-baru/admin-web/public/?page=data-siswa')
+WebUI.navigateToUrl('http://localhost/e-pkl/admin-web/public/?page=data-siswa')
 
 WebUI.setText(findTestObject('Data_siswa_CRUD/Page_Login Admin  E-PKL/input_Masukkan username atau email'), 'admin')
 
