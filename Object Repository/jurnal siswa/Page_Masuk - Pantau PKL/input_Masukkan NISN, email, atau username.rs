@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Masukkan NISN, email, atau username</name>
+   <tag></tag>
+   <elementGuidId>a2940149-698c-4083-a09e-52f4e951af89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'loginIdentifier' and @name = 'identifier' and @type = 'text' and @placeholder = 'Masukkan NISN, email, atau username']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#loginIdentifier</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'loginIdentifier']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Masukkan NISN, email, atau username&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3af4a40c-5657-4c9b-801f-151857e4cb06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login-input</value>
+      <webElementGuid>4a70161f-c3c4-42d7-9a27-103b4b56dd41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>loginIdentifier</value>
+      <webElementGuid>ee7250a7-0da3-479c-b992-4e6b085e4db9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>identifier</value>
+      <webElementGuid>664e489a-7693-47d2-a59a-21d215cae8b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>1631022f-8efb-4212-995e-832aa739a861</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>username</value>
+      <webElementGuid>48f3628a-9c08-4c16-9ba5-238e7256fcb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan NISN, email, atau username</value>
+      <webElementGuid>0a603ea1-5644-4196-88ec-6980c5da39cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>identifierError</value>
+      <webElementGuid>013e7847-76c8-4969-ba2b-8d0bf8d84abd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-da2bcc9babe7beca4f4d6049eada43d8</value>
+      <webElementGuid>ea00fcd7-1abc-4190-8651-2724334f2d80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'loginIdentifier']</value>
+      <webElementGuid>c335d805-33ae-4150-8888-86f984744a2f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'loginIdentifier']</value>
+      <webElementGuid>d1163317-736e-40f1-8500-82b21bf81c47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'loginIdentifier' and @name = 'identifier' and @type = 'text' and @placeholder = 'Masukkan NISN, email, atau username']</value>
+      <webElementGuid>8649a4a4-b537-4d8e-8043-fe4bdbd33748</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

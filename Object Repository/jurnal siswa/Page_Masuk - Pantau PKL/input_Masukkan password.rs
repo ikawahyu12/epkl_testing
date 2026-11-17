@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Masukkan password</name>
+   <tag></tag>
+   <elementGuidId>2996e347-d26f-4391-bb5b-0ef38eac5448</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'loginPassword' and @name = 'password' and @type = 'password' and @placeholder = 'Masukkan password']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#loginPassword</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'loginPassword']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Masukkan password&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>2117e3f8-569f-4bc7-baa1-be93b8cd3dde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login-input login-password-input</value>
+      <webElementGuid>204535b0-0477-4a7e-a256-e37f0edcffd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>loginPassword</value>
+      <webElementGuid>97a3e223-1a59-4621-9169-2ba22bb92a64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>dfe230fd-806b-4a6a-b8c8-c9cb87e05902</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>1ed94dee-9d28-436b-8f29-cfd83e277211</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>current-password</value>
+      <webElementGuid>0ccab28c-4595-4897-b9d1-b38b04ab654f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan password</value>
+      <webElementGuid>00a1daa5-5776-41c6-ae2e-2f52bfd13013</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>passwordError</value>
+      <webElementGuid>de411509-176b-4685-8f95-87d07a03c822</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-80bd383073bd232ce9e58c5a04944afc</value>
+      <webElementGuid>32a25bbb-7faf-47a4-a46b-e6a5c10df0c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'loginPassword']</value>
+      <webElementGuid>59be22cf-bd36-48ee-b9d8-0c8b6d6bdabc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'loginPassword']</value>
+      <webElementGuid>8fa14427-7115-4220-b238-ccb6a19d4460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'loginPassword' and @name = 'password' and @type = 'password' and @placeholder = 'Masukkan password']</value>
+      <webElementGuid>3e9f260a-3a8a-49a3-85d6-941e063ed3e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

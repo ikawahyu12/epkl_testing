@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_btn-submit</name>
+   <tag></tag>
+   <elementGuidId>9c2aa71e-deca-445f-acec-978ceb6084e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'submit' and @id = 'btn-submit' and (text() = 'Kirim Jurnal' or . = 'Kirim Jurnal')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btn-submit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'btn-submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Kirim Jurnal&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>94939557-3aab-4d5e-a289-15d80aeab7ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-block</value>
+      <webElementGuid>4dcf08e5-41b5-4b32-acd5-009c02c03fb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>1a65767b-fcfa-4c91-923b-228cc5950bfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn-submit</value>
+      <webElementGuid>5a2aa2bf-388f-4e03-8446-f2d1cb99e621</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kirim Jurnal</value>
+      <webElementGuid>5ea14ddd-f903-4ac8-a0ab-85b0e4054a09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-82c050b377f9ee4f85a46952ee853e02</value>
+      <webElementGuid>3c4d8415-2550-43b0-9acc-5b7d9d6346d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'btn-submit']</value>
+      <webElementGuid>43b6feb1-a4a3-4e72-81a8-1a58ba283f3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'btn-submit']</value>
+      <webElementGuid>3b0b97ae-37fe-438f-941f-5a9eb2dd834e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @id = 'btn-submit' and (text() = 'Kirim Jurnal' or . = 'Kirim Jurnal')]</value>
+      <webElementGuid>467efc4f-ed39-4d52-9053-9d1d8b1aac5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

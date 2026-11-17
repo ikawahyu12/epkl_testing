@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Tuliskan detail pekerjaan magang</name>
+   <tag></tag>
+   <elementGuidId>59af8b56-f3a8-49d1-a2c9-2a6bafb0fedb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'kegiatan-jurnal' and @name = 'kegiatan' and @placeholder = 'Tuliskan detail pekerjaan magang...']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#kegiatan-jurnal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'kegiatan-jurnal']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Tuliskan detail pekerjaan magang...&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>792d79c3-4a8f-4b89-be71-9de121fe2671</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>kegiatan-jurnal</value>
+      <webElementGuid>d0744a43-63a7-4374-9282-2a06837b1bc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>kegiatan</value>
+      <webElementGuid>1c69ce17-3a1c-40f6-b52a-15ed95242e5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>8408accd-d852-496b-81a5-add8ee518572</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Tuliskan detail pekerjaan magang...</value>
+      <webElementGuid>8c9b8b0b-3bc4-4a84-a382-3e67f785f8e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-f5fb2761764d639bb7d49be258a0d4f1</value>
+      <webElementGuid>7485b7d9-933f-4ea5-a8a9-6e7334bc7ad4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'kegiatan-jurnal']</value>
+      <webElementGuid>67c1de33-62a3-4011-870f-e407e971504e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'kegiatan-jurnal']</value>
+      <webElementGuid>fa6324cc-3cb0-48e6-b1be-9256e11ef661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'kegiatan-jurnal' and @name = 'kegiatan' and @placeholder = 'Tuliskan detail pekerjaan magang...']</value>
+      <webElementGuid>210222d0-e210-42be-802c-bbdae09ffefe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

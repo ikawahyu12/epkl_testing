@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_togglePassword</name>
+   <tag></tag>
+   <elementGuidId>3dd2175c-a432-4f17-8527-02cce477d379</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#togglePassword</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'togglePassword']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Tampilkan password&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>95963387-0bff-4680-8928-59fef68dab5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login-password-toggle</value>
+      <webElementGuid>836f84ac-dd21-4783-8360-6b379af62a3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>togglePassword</value>
+      <webElementGuid>5db01932-cf3f-46a2-a8b0-c9c7d6533146</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>028462c9-b113-4a17-a3ee-909d14f84230</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Tampilkan password</value>
+      <webElementGuid>a7ce2913-9c8d-4f24-8fad-82fe27795a3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-pressed</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>6590e393-2387-46f5-b030-ab7bc346b43b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e9b47799dd466ee4b08b61dcb714f39c</value>
+      <webElementGuid>52dcfbe7-07a2-4bd0-a498-9c17c7cfbd58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'togglePassword']</value>
+      <webElementGuid>a6de4fcd-6c1c-451b-a9c5-8807cef2dff7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'togglePassword']</value>
+      <webElementGuid>eead903d-bd3f-4f5d-bcf9-0955596b5011</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'togglePassword' and @type = 'button']</value>
+      <webElementGuid>548ab615-4828-4c02-b456-23e934e91c17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
