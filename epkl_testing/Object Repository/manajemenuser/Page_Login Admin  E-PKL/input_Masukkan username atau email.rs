@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Masukkan username atau email</name>
+   <tag></tag>
+   <elementGuidId>381d379c-4dbb-4f3e-b4d9-95797222ddf7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'adminUsername']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#adminUsername</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'adminUsername' and @name = 'username' and @type = 'text' and @placeholder = 'Masukkan username atau email']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Masukkan username atau email&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ecf2d0f8-40e0-42c0-b1ed-e0ddf0bc947c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>adminUsername</value>
+      <webElementGuid>13a926e2-592e-4e1a-8d44-af8f79d9368c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>username</value>
+      <webElementGuid>c885e3d6-c747-4b49-bdf7-2643c662f744</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>a0e853b4-b35c-4131-a0e5-45737b0a5c77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan username atau email</value>
+      <webElementGuid>0d8f5f52-3a0f-4825-bad1-edeee35bd75c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>username</value>
+      <webElementGuid>1008b64a-795e-4c01-8ff4-a5d6f57d44d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c0d96da4d4ed62ccb50ca752cd655ece</value>
+      <webElementGuid>357d9805-92b7-46e1-a8d8-8d16f9e2caa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'adminUsername']</value>
+      <webElementGuid>972beac0-d254-4036-ac1a-797480d9ada4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'adminUsername']</value>
+      <webElementGuid>84f488e0-704d-48a7-bb27-02c6104ff845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'adminUsername' and @name = 'username' and @type = 'text' and @placeholder = 'Masukkan username atau email']</value>
+      <webElementGuid>c72fbdb7-9924-4bfd-8c27-db149653eb94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

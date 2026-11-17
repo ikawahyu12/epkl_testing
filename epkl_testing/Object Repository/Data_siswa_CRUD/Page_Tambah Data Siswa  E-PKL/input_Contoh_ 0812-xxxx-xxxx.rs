@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Contoh_ 0812-xxxx-xxxx</name>
+   <tag></tag>
+   <elementGuidId>b0781882-337f-4f90-92d0-eaa3044dd32a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#no_hp</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'no_hp']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Contoh: 0812-xxxx-xxxx&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>19518cab-8422-4348-9c17-6eb4a51834cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sf-input</value>
+      <webElementGuid>93bbae06-c41f-4bc4-b867-15309020725e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>tel</value>
+      <webElementGuid>de354784-6d8f-45ca-b37c-d77ce689e016</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>no_hp</value>
+      <webElementGuid>5dc0a661-0533-4d67-86bd-91f5be9089fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>no_hp</value>
+      <webElementGuid>cb93ee2d-bb0c-4fc9-82c9-b383e094f921</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>25</value>
+      <webElementGuid>68e34762-f745-4c7e-825a-333554e6e897</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Contoh: 0812-xxxx-xxxx</value>
+      <webElementGuid>3487937a-a02e-4c3f-8703-ff881609e33a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-089dcd48a723a4249d5459d03ce8bdce</value>
+      <webElementGuid>2385a056-aa67-4f7c-bcf8-e00c211e838d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'no_hp']</value>
+      <webElementGuid>47c67e89-e3ae-4000-94ab-853ef007ec86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'no_hp']</value>
+      <webElementGuid>a03041b0-2fd5-41a2-8f97-5e6362f6a5d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'tel' and @id = 'no_hp' and @name = 'no_hp' and @placeholder = 'Contoh: 0812-xxxx-xxxx']</value>
+      <webElementGuid>efffe3ac-1e12-4729-8521-b02972df3338</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

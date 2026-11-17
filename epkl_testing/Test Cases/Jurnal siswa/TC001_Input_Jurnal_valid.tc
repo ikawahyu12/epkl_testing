@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_Input_Jurnal_valid</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>E DIA PUTRA ANDIKA IBEKNUH SETIAWAN</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>6ba59b75-dfbb-48fe-a7e8-88bd8d42989e</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>240f6495-0e04-4cdc-aeb5-19bc57445d40</testCaseGuid>
+</TestCaseEntity>

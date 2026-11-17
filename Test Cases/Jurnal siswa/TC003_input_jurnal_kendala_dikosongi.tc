@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003_input_jurnal_kendala_dikosongi</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>E DIA PUTRA ANDIKA IBEKNUH SETIAWAN</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>6ba59b75-dfbb-48fe-a7e8-88bd8d42989e</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a32556e7-c380-4deb-8867-cd110b5e00e9</testCaseGuid>
+</TestCaseEntity>

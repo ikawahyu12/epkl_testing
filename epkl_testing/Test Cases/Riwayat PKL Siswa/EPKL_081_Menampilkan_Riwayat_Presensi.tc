@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EPKL_081_Menampilkan_Riwayat_Presensi</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>E RIFQI FIRMANSYAH</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>E RIFQI FIRMANSYAH</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>832addda-6ea1-4063-a44b-40753ef3f9da</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>832addda-6ea1-4063-a44b-40753ef3f9da</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e3978371-a8cc-4b3a-afe3-8c92492a558f</testCaseGuid>
+</TestCaseEntity>
