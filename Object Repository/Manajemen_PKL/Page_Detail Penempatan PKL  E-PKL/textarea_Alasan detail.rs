@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Alasan detail</name>
+   <tag></tag>
+   <elementGuidId>b22a6d1d-1e60-4622-9a5f-da5986273bba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#move-reason-detail</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'move-reason-detail']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=textbox[name=&quot;Alasan detail&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>d8c813c7-e4dd-4568-a2d6-6aef9ba16bb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>46268fa8-7c24-4a1c-8847-4e1baeb1a222</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>move-reason-detail</value>
+      <webElementGuid>0cb7b751-64e7-4877-845a-da38b11a46de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>alasan_detail</value>
+      <webElementGuid>ecc3c245-f492-454d-bcc1-2e522d4e6236</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>5000</value>
+      <webElementGuid>222ccdf3-c9ac-436e-b766-3b884c7069aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-608bfa1152adf90694d1f7361e352985</value>
+      <webElementGuid>426c894d-a6e0-4f1e-9c17-ac0a2739960e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'move-reason-detail']</value>
+      <webElementGuid>f36d6234-fc40-430d-96ab-eddf4e6088ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'move-reason-detail']</value>
+      <webElementGuid>e0bebec1-ba28-4ce2-8339-8d12b6d0e0e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'move-reason-detail' and @name = 'alasan_detail']</value>
+      <webElementGuid>a3cd80a8-672b-494c-bcd3-0d56a335d4fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

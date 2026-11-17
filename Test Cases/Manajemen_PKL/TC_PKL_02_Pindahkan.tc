@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PKL_02_Pindahkan</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Niha</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>578a42c2-4839-452c-ad3f-91ec605ce0f6</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Niha</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>578a42c2-4839-452c-ad3f-91ec605ce0f6</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b6c3b967-c9b2-4187-911b-4ee26496aeef</testCaseGuid>
+</TestCaseEntity>

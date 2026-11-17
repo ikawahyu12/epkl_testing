@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PKL_03_Batalkan</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Niha</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>578a42c2-4839-452c-ad3f-91ec605ce0f6</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Niha</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>578a42c2-4839-452c-ad3f-91ec605ce0f6</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e80d3445-5c57-47a8-b91e-7c32c2f73bef</testCaseGuid>
+</TestCaseEntity>

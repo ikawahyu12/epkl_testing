@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_teacher-select</name>
+   <tag></tag>
+   <elementGuidId>8f42f1dc-2ab1-49bf-9399-53d95a9e8637</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#teacher-select</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'teacher-select']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#teacher-select</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>9799a174-aa57-472f-8ad4-96fbc5c81c8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control mt-2</value>
+      <webElementGuid>186327a8-9561-4db2-a2c9-feb8d3914cf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>teacher-select</value>
+      <webElementGuid>6286f06d-019f-42b3-a0dd-5eb7e20778d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>guru_id</value>
+      <webElementGuid>5578fa0c-213e-45d3-bfce-5a200a10bb0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Guru aktifguruepkl · developer.guru</value>
+      <webElementGuid>757ebad0-96eb-4072-9c31-d9d7b1b5d2d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-90f8b6c5d55c6def565f9340b0aa4054</value>
+      <webElementGuid>4a7f0cb0-cf44-406c-9f63-6d3c34859aa6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'teacher-select']</value>
+      <webElementGuid>5e99a669-63f2-4c76-9f11-2407b3efe2f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'teacher-select']</value>
+      <webElementGuid>33994024-cc00-4eb4-80f1-707bca32ef37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'teacher-select' and @name = 'guru_id' and (text() = 'Pilih Guru aktifguruepkl · developer.guru' or . = 'Pilih Guru aktifguruepkl · developer.guru')]</value>
+      <webElementGuid>b9524427-ad0b-4e9d-95d0-5d08491473ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
