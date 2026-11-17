@@ -46,6 +46,8 @@ WebUI.verifyEqual(nilaiInput, usernameSpasi, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(btnLogin)
 
+WebUI.verifyElementPresent(findTestObject('Object Repository/.../pesan_error_login'), 5)
+
 WebUI.delay(2)
 
 String urlSekarang = WebUI.getUrl()
