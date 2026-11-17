@@ -18,10 +18,40 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser(null)
+String loginUrl  = 'http://localhost/e-pkl/siswa-web/public/login/'
 
-WebUI.navigateToUrl('http://localhost/e-pkl/siswa-web/public/login/')
+String usernameSpasi = '    8888888801'          // sengaja diawali spasi
 
+TestObject inputUser = findTestObject('Login Siswa/Page_Masuk - Pantau PKL/input_Masukkan NISN, email, atau username')
 
+TestObject inputPass = findTestObject('Login Siswa/Page_Masuk - Pantau PKL/input_Masukkan password')
 
+TestObject btnLogin  = findTestObject('Login Siswa/Page_Masuk - Pantau PKL/button_loginSubmit')
 
+WebUI.openBrowser('')
+
+WebUI.maximizeWindow()
+
+WebUI.navigateToUrl(loginUrl)
+
+WebUI.waitForElementVisible(inputUser, 10)
+
+WebUI.setText(inputUser, usernameSpasi)
+
+WebUI.setEncryptedText(inputPass, 'RigbBhfdqOCS7dY3cpR0kg==')
+
+String nilaiInput = WebUI.getAttribute(inputUser, 'value')
+
+WebUI.verifyEqual(nilaiInput, usernameSpasi, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(btnLogin)
+
+WebUI.delay(2)
+
+String urlSekarang = WebUI.getUrl()
+
+WebUI.verifyMatch(urlSekarang, '.*/login/?.*', true, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.verifyElementPresent(btnLogin, 5, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.closeBrowser()
