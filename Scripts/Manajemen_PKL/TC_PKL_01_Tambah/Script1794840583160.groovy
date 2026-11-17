@@ -20,7 +20,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser(null)
 
-WebUI.navigateToUrl('http://localhost/e-pkl/e-pkl/admin-web/public/?page=manajemen-pkl')
+WebUI.navigateToUrl('http://localhost/e-pkl/admin-web/public/')
 
 WebUI.setText(findTestObject('Manajemen_PKL/Page_Login Admin  E-PKL/input_Masukkan username atau email'), 'admin')
 
