@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Contoh_ 0813-xxxx-xxxx</name>
+   <tag></tag>
+   <elementGuidId>094e0fb8-7801-4e21-bf9b-29fac59db96c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tlp_ortu</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'tlp_ortu']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Contoh: 0813-xxxx-xxxx&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c60a33af-446e-4a98-9bb7-52b14f137939</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sf-input</value>
+      <webElementGuid>ff15a47e-b6bd-40ad-8fa2-61a6428c0695</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>tel</value>
+      <webElementGuid>12b90f5f-a776-4f18-ae17-e61e0c5edd68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>tlp_ortu</value>
+      <webElementGuid>65db28e6-e413-4ba7-b66d-252f74acf2cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>tlp_ortu</value>
+      <webElementGuid>33c887a4-8aa7-4920-a8c4-f4d4cd0a009b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>25</value>
+      <webElementGuid>c0670e4b-927b-49df-a6da-03f429eb0236</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Contoh: 0813-xxxx-xxxx</value>
+      <webElementGuid>6b63e51e-249a-4dd9-91e7-70e249ec6dec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-3aabafcd02e8fc2d18b3d755c8620cf6</value>
+      <webElementGuid>c13960e9-549e-40b5-94a8-20ccbd7295b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'tlp_ortu']</value>
+      <webElementGuid>a5625e7b-b2d0-4c5e-82ce-5b5dbf8abed4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'tlp_ortu']</value>
+      <webElementGuid>98f636b6-e4a2-4900-b812-11889aaccca4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'tel' and @id = 'tlp_ortu' and @name = 'tlp_ortu' and @placeholder = 'Contoh: 0813-xxxx-xxxx']</value>
+      <webElementGuid>f0867cf3-e040-4884-b513-c6d03a2aee96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

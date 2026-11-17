@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Edit</name>
+   <tag></tag>
+   <elementGuidId>3c3ab52c-45ef-4cc6-a632-4fd80308b367</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[data-status=&quot;Aktif&quot;]:nth-child(3) .a-edit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(@data-status = 'Aktif') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' a-edit ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;3 11110001 siswa testing baru edit 12 MPK - - Aktif Detail Edit Hapus&quot;i] >> internal:role=link >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>652241b6-5bf6-4301-b427-085ea301287c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-edit</value>
+      <webElementGuid>7717d211-25d7-4999-9e56-2f1a0f589da9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>?page=edit&amp;id=6</value>
+      <webElementGuid>8f6b1e27-da0e-4199-9cf3-76d1f9e23c2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>acea7613-fda8-4448-963c-384adb7ba400</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-aa0892e144f8ec0920f81a82cdc6865f</value>
+      <webElementGuid>91c5bab2-dc74-4c54-83e3-32f66ed5ac12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(@data-status = 'Aktif') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' a-edit ')]</value>
+      <webElementGuid>603d340e-3656-4ad4-928f-36854d76bfa0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(@data-status = 'Aktif') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' a-edit ')]</value>
+      <webElementGuid>fad745ee-f072-4b1d-800b-fe762989bfb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '?page=edit&amp;id=6' and (text() = 'Edit' or . = 'Edit')]</value>
+      <webElementGuid>0eee453d-3ad6-47fa-a6ef-abf48e8bf6df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

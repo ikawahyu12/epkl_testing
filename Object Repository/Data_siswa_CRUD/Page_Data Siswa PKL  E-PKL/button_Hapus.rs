@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Hapus</name>
+   <tag></tag>
+   <elementGuidId>5a7caaec-4425-46a0-9c47-0e7db14d232d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-nama = 'siswa testing edit baru']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Hapus' or . = 'Hapus')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[data-nama=&quot;siswa\ testing\ edit\ baru&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;3 11110001 siswa testing edit baru 12 TKJ - - Aktif Detail Edit Hapus&quot;i] >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>85bacd5f-8789-4b26-8037-83f7e24cf377</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ac42c683-2323-4aa8-ad4a-8f29bdd3446c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-hapus sl-hapus</value>
+      <webElementGuid>3ab077e8-c85f-4c5f-b5ee-c7d7b7cc8d83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>df35be53-c213-4e12-8913-7c54144e79c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-nama</name>
+      <type>Main</type>
+      <value>siswa testing edit baru</value>
+      <webElementGuid>94a8f29f-b3a4-43b0-ad01-232e6832a1fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-nisn</name>
+      <type>Main</type>
+      <value>11110001</value>
+      <webElementGuid>bf76f102-8ce8-48c2-9015-5fb526c4a810</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-kelas</name>
+      <type>Main</type>
+      <value>12 TKJ</value>
+      <webElementGuid>9ec27770-2610-42b2-bdc8-fc4411adb566</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-instansi</name>
+      <type>Main</type>
+      <value>-</value>
+      <webElementGuid>31ff4467-e346-44c6-a7c9-9ba417a5c6ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-guru</name>
+      <type>Main</type>
+      <value>-</value>
+      <webElementGuid>38ed9b2d-c85c-4b5b-96ff-32bc36de5fc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hapus</value>
+      <webElementGuid>529a34b0-5b41-48ec-bf63-b710257ce3bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e1f9c553497e6ac9bb72e819fc7bcb3e</value>
+      <webElementGuid>6a8a8c57-bb2f-4f78-aaf6-53469544e6ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-nama = 'siswa testing edit baru']</value>
+      <webElementGuid>5bfeb730-1951-4607-8aaa-d48eb171827e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-nama = 'siswa testing edit baru']</value>
+      <webElementGuid>4abb00e8-fc16-47ec-b708-de8be5ab0c9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Hapus' or . = 'Hapus')]</value>
+      <webElementGuid>3adda5c0-a679-4017-9da3-7d4bf95cd50e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-nama = 'test siswa baru']</value>
+      <webElementGuid>378e581d-4c77-4b1d-8e53-fca505b1f866</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
