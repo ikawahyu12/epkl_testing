@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Pilih foto</name>
+   <tag></tag>
+   <elementGuidId>44935a69-98d5-4c75-8d56-68f05fff3eef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'jurnal-file' and @name = 'foto' and @type = 'file']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#jurnal-file</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'jurnal-file']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Pilih foto&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1124e93e-5b3b-4c3b-bd4d-b0b61d0c3055</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>activity-file-input</value>
+      <webElementGuid>5e56c16c-079d-47f2-9707-312a0291bb4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>jurnal-file</value>
+      <webElementGuid>c1c794bf-04b0-4000-bd9e-0dddd0e7dbac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>foto</value>
+      <webElementGuid>7842dc15-72f7-48c8-870d-930021185fbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>file</value>
+      <webElementGuid>a68e9ae7-3db2-42e7-8c23-63b046c76a94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>accept</name>
+      <type>Main</type>
+      <value>.jpg,.jpeg,.png,.webp</value>
+      <webElementGuid>3f48549c-c8eb-413d-94b3-bda6c03e29bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-205dd6f760aa4e0b16613354ca0d7380</value>
+      <webElementGuid>19fe5b58-736f-4505-b6b9-6461caf49fbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'jurnal-file']</value>
+      <webElementGuid>09092eaf-78f8-486e-b0c0-e080a8d52445</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'jurnal-file']</value>
+      <webElementGuid>7aadd4ba-f21c-4391-852f-6de7fd2b2e4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'jurnal-file' and @name = 'foto' and @type = 'file']</value>
+      <webElementGuid>2eb5b9f2-1b0e-43da-b213-3a346d9d0072</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

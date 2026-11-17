@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>jurnal</name>
+   <name>Login Validasi Form</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -12,26 +12,26 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>bd4c5ca9-992b-47e3-a32f-9929c039184f</testSuiteGuid>
+   <testSuiteGuid>d32156a8-98f6-468b-8980-b50aa710d2e7</testSuiteGuid>
    <testCaseLink>
-      <guid>9310084c-5d9c-4700-842d-bda3e5816b05</guid>
+      <guid>cd31c8c1-2aa5-424b-a8fd-99bab6a37f62</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/jurnal_siswa/TC001_Input_Jurnal_valid</testCaseId>
+      <testCaseId>Test Cases/Login Validasi Form Siswa/EPKL_006_username_kosong</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>99bc7469-28bf-4276-b11a-7e0bc1c4e8d5</guid>
+      <guid>832da797-823f-42c3-982b-93e58fc85b21</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/jurnal_siswa/TC002_input_jurnal_foto_kosong</testCaseId>
+      <testCaseId>Test Cases/Login Validasi Form Siswa/EPKL_007_password_kosong</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>4768e42f-3ca0-4d0b-8695-2eaa351756b3</guid>
+      <guid>5fdedff9-0eaf-4b71-aad6-be4523a7ed59</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/jurnal_siswa/TC002_input_jurnal_kendala_dikosongi</testCaseId>
+      <testCaseId>Test Cases/Login Validasi Form Siswa/EPKL_008_spasi_sebelum_username</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

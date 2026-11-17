@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Contoh_ Membuat UI Halaman Login</name>
+   <tag></tag>
+   <elementGuidId>75a756a2-6ec9-4a97-b983-9fd4a997120a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'judul-jurnal' and @name = 'judul' and @type = 'text' and @placeholder = 'Contoh: Membuat UI Halaman Login']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#judul-jurnal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'judul-jurnal']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Contoh: Membuat UI Halaman Login&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ccec2525-b571-417a-b262-b3e668d5ece6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>judul-jurnal</value>
+      <webElementGuid>444de181-f6cc-4bd9-a56b-582e2da932db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>judul</value>
+      <webElementGuid>924cb530-5525-4c20-95be-b2d42794165d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>5e030790-f038-4846-99fb-69c0e92d6423</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Contoh: Membuat UI Halaman Login</value>
+      <webElementGuid>95d11a0f-34d9-42e7-a3fd-bda9af8dea4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-1f901d75df04e7b7f3ed47b170c515ae</value>
+      <webElementGuid>cfd5cf85-0118-479c-9f32-19996cfd08f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'judul-jurnal']</value>
+      <webElementGuid>8e268f0e-ca4b-44ad-978f-eebd17ba7258</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'judul-jurnal']</value>
+      <webElementGuid>1e005896-ed39-4d84-bf84-c197885b7a6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'judul-jurnal' and @name = 'judul' and @type = 'text' and @placeholder = 'Contoh: Membuat UI Halaman Login']</value>
+      <webElementGuid>a4831ce9-98b3-4c14-b584-60016fb17797</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Apakah ada kendala hari ini</name>
+   <tag></tag>
+   <elementGuidId>fde2352f-506b-4fe4-98aa-dc199e4c9e3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'kendala-jurnal' and @name = 'kendala' and @placeholder = 'Apakah ada kendala hari ini?']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#kendala-jurnal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'kendala-jurnal']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Apakah ada kendala hari ini?&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>9b604dbc-0838-4d48-9a7d-9e14586420c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>kendala-jurnal</value>
+      <webElementGuid>6986c5b1-0ffa-46af-a775-0fa6702550c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>kendala</value>
+      <webElementGuid>74a46f3e-6eea-4b9f-8d43-f29efc152d7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>5055664c-7648-4692-bce4-bb08fb31700e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Apakah ada kendala hari ini?</value>
+      <webElementGuid>1ffe49b9-74eb-47c8-ae52-b6aab9dc324e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-40981288d319faa916447188d7d8e75d</value>
+      <webElementGuid>4a38e3e6-cbd0-47b0-ae2c-0240f5a30f2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'kendala-jurnal']</value>
+      <webElementGuid>95752472-fb9e-4b21-b0a3-b89386a6fa38</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'kendala-jurnal']</value>
+      <webElementGuid>e7be8f29-3b4d-4436-95f3-ed17baf9a7ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'kendala-jurnal' and @name = 'kendala' and @placeholder = 'Apakah ada kendala hari ini?']</value>
+      <webElementGuid>3ca6b16b-67b3-4890-9a9d-b7a6268ff30c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

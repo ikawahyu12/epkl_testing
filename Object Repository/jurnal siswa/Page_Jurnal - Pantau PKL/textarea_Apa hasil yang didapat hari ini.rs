@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Apa hasil yang didapat hari ini</name>
+   <tag></tag>
+   <elementGuidId>24c5cf3c-717a-4e08-8cfb-a68419404fbd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'hasil-jurnal' and @name = 'hasil' and @placeholder = 'Apa hasil yang didapat hari ini?']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#hasil-jurnal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'hasil-jurnal']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Apa hasil yang didapat hari ini?&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>a460ebff-3779-4e36-8af3-6c6f9eaf6223</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>hasil-jurnal</value>
+      <webElementGuid>0c94cb0f-cae8-4577-99ea-432aedc9f5fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>hasil</value>
+      <webElementGuid>b4ac05c7-7c74-4753-979a-dd3e907f0210</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>5e37b267-fc35-4fa0-8f17-1266fba49aba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Apa hasil yang didapat hari ini?</value>
+      <webElementGuid>59ccbad8-0ec5-44c9-9f66-94e6581d52a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-fd5abe996deb17c2eabe90d4e1634db1</value>
+      <webElementGuid>5d0ea258-a9d4-401b-9875-6af63c9304bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'hasil-jurnal']</value>
+      <webElementGuid>077a7e55-d26c-4b08-8f76-8d52b2e2a930</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'hasil-jurnal']</value>
+      <webElementGuid>892eb69e-54f8-48b3-b6d3-0b9be4ea617e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'hasil-jurnal' and @name = 'hasil' and @placeholder = 'Apa hasil yang didapat hari ini?']</value>
+      <webElementGuid>39d95457-3c71-4816-bff7-84d89795f126</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

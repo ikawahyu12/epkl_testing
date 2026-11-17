@@ -22,6 +22,13 @@ WebUI.openBrowser(null)
 
 WebUI.navigateToUrl('http://localhost/e-pkl/siswa-web/public/login/')
 
+WebUI.setText(findTestObject('Login Siswa/Page_Masuk - Pantau PKL/input_Masukkan NISN, email, atau username'), '8888888801')
 
+WebUI.click(findTestObject('Login Siswa/Page_Masuk - Pantau PKL/input_Masukkan password'))
 
+WebUI.click(findTestObject('Login Siswa/Page_Masuk - Pantau PKL/button_loginSubmit'))
+
+WebUI.doubleClick(findTestObject('Login Siswa/Page_Masuk - Pantau PKL/button_loginSubmit'))
+
+WebUI.click(findTestObject('Login Siswa/Page_Masuk - Pantau PKL/button_loginSubmit'))
 

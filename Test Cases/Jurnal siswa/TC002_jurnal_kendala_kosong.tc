@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC001_Input_Jurnal_valid</name>
+   <name>TC002_jurnal_kendala_kosong</name>
    <tag></tag>
    <integratedEntity>
       <productName>TESTOPS</productName>
       <properties>
          <entry>
+            <key>createdByName</key>
+            <value>E DIA PUTRA ANDIKA IBEKNUH SETIAWAN</value>
+         </entry>
+         <entry>
             <key>lastModifiedByName</key>
             <value>E DIA PUTRA ANDIKA IBEKNUH SETIAWAN</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>6ba59b75-dfbb-48fe-a7e8-88bd8d42989e</value>
          </entry>
          <entry>
             <key>lastModifiedByUuid</key>
@@ -19,5 +27,5 @@
    </integratedEntity>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>240f6495-0e04-4cdc-aeb5-19bc57445d40</testCaseGuid>
+   <testCaseGuid>28e3b41c-5c86-4fb0-a3f1-50f24defe49f</testCaseGuid>
 </TestCaseEntity>
